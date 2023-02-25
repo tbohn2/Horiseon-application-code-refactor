@@ -32,11 +32,13 @@ header {
 
 header h1 {
     display: inline-block;
+    /* makes the lay out of the h1 elements appear inline in the header*/
     font-size: 48px;
 }
 
 header h1 .seo {
     color: #d9dcd6;
+    /* changes text color of the "seo" in Horiseon */
 }
 
 header nav {
@@ -45,10 +47,12 @@ header nav {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    /* specifies the space around, location, and text font/size of the header nav elements */
 }
 
 header nav ul {
     list-style-type: none;
+    /* makes no bullet points appear for list items */
 }
 
 header nav ul li {
@@ -56,7 +60,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Attributes applied to first figure on page */
+/* Attributes applied to first figure on page, making it take up the whole width of the page */
 
 figure {
     height: 800px;
@@ -67,7 +71,7 @@ figure {
     background-position: center;
 }
 
-/* Classes specifying margin/location of an element*/
+/* Classes specifying margin size/location of elements located with Main*/
 
 .float-left {
     float: left;
@@ -111,6 +115,7 @@ aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
+    /* This allows no floating element to be in contact with either side of aside element */
     float: right;
     width: 20%;
     height: 100%;
