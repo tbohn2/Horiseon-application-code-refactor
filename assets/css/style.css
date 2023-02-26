@@ -109,6 +109,14 @@ main section h2 {
     font-size: 36px;
 }
 
+/* Ids to provide functionality to the links in the header */
+
+#search.engine.optimization{}
+
+#online-reputation-management{}
+
+#social-media-marketing{}
+
 /* Aside element with sub-elements and specifying attributes */
 
 aside {
