@@ -4,7 +4,7 @@ A project created to improve understanding of HTML, CSS, and Git
 
 ## Description
 
-This project goal was to improve accessibility of an example application for a websearch optimization service. The HTML was restructured to be more organized and include semantic HTML elements. The CSS was reorganized to avoid repetition and imprecision. These changes were committed and pushed to a Github repository. The purpose of improving the HTML and CSS, using Git to push changes, was to explore and learn more about these three respective topics.
+This project goal was to improve accessibility of an example application for a web search optimization service. The HTML was restructured to be more organized and include semantic HTML elements. The CSS was reorganized to avoid repetition and imprecision. These changes were committed and pushed to a Github repository. The purpose of improving the HTML and CSS, using Git to push changes, was to explore and learn more about these three respective topics.
 
 ## Application URL and Screenshot
 
